@@ -1,0 +1,22 @@
+{
+  "author" : "asd13148866@sina.com",
+  "bugs" : {
+    "url" : "https://github.com/asd8855/react-native-test/issues"
+  },
+  "description" : "练习demo",
+  "homepage" : "https://github.com/asd8855/react-native-test#readme",
+  "keywords" : [
+    "demo"
+  ],
+  "license" : "MIT",
+  "main" : "index.js",
+  "name" : "react-native-asdtest",
+  "repository" : {
+    "type" : "git",
+    "url" : "git+https://github.com/asd8855/react-native-test.git"
+  },
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "version" : "1.0.0"
+}
